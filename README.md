@@ -1,16 +1,8 @@
 # magic_8_balls
+Created by: Raouf meghaoui
 
-A new Flutter project.
+### Screenshot
+![image](https://user-images.githubusercontent.com/72553155/200552229-50c3fe81-8ee6-4201-81c6-c791a9f25342.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+A simple game like the magic ball, we push the ball and we get random answer for your question 😊, using just your knowledge and what we have learn in the course.
